@@ -3,7 +3,7 @@ import React from 'react'
 const Slider = () => {
   return (
     <>
-      <div className="slider">
+      <div className="min-h-screen bg-[#ddd] flex flex-col justify-center items-center ">
         <div className="slider-content">
           <div className="content-box">
             <p>Hello! My name is</p>
